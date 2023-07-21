@@ -1,18 +1,20 @@
 {
-	"1" : [
-		"PLAETA" : "ŚRODEK",
-		"MASZT" : "ŚREDNIO",
-		"KĄT DESKA-FOIL" : "2.0",
-		"PODKŁADKA" : "+1",
-		"WAGA" : "45",
-		"WIATR" : 10
-	]
-	"2" : [
-		"PLAETA" : "ŚRODEK",
-		"MASZT" : "ŚREDNIO",
-		"KĄT DESKA-FOIL" : "2.0",
-		"PODKŁADKA" : "+1",
-		"WAGA" : "50",
-		"WIATR" : 15
-	]
+	"SETTINGS" ; {
+		[
+			"PLAETA" : "ŚRODEK",
+			"MASZT" : "ŚREDNIO",
+			"KĄT DESKA-FOIL" : "2.0",
+			"PODKŁADKA" : "+1",
+			"WAGA" : "45",
+			"WIATR" : 10
+		],
+		[
+			"PLAETA" : "ŚRODEK",
+			"MASZT" : "ŚREDNIO",
+			"KĄT DESKA-FOIL" : "2.0",
+			"PODKŁADKA" : "+1",
+			"WAGA" : "50",
+			"WIATR" : 15
+		]
+	}
 }
