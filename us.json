@@ -1,0 +1,42 @@
+{
+	10 : [
+		45 : {
+			"PLAETA" : "ŚRODEK",
+			"MASZT" : "ŚREDNIO",
+			"KĄT DESKA-FOIL" : "2.0",
+			"PODKŁADKA" : "+1"
+		},
+		38 : {
+			"PLAETA" : "ŚRODEK",
+			"MASZT" : "ŚREDNIO",
+			"KĄT DESKA-FOIL" : "2.3",
+			"PODKŁADKA" : "+1"
+		},
+		50 : {
+			"PLAETA" : "ŚRODEK",
+			"MASZT" : "ŚREDNIO",
+			"KĄT DESKA-FOIL" : "2.3",
+			"PODKŁADKA" : "+1"
+		}
+	],
+	15 : [
+		45 : {
+			"PLAETA" : "PRZÓD",
+			"MASZT" : "ŚREDNIO-MOCNO",
+			"KĄT DESKA-FOIL" : "1.8",
+			"PODKŁADKA" : "+1"
+		}
+		38 : {
+			"PLAETA" : "PRZÓD",
+			"MASZT" : "ŚREDNIO-MOCNO",
+			"KĄT DESKA-FOIL" : "1.5",
+			"PODKŁADKA" : "+1"
+		}
+		50 : {
+			"PLAETA" : "PRZÓD",
+			"MASZT" : "ŚREDNIO-MOCNO",
+			"KĄT DESKA-FOIL" : "2.0",
+			"PODKŁADKA" : "+1"
+		}
+	]
+}
