@@ -5,7 +5,7 @@
 			"MASZT" : "ŚREDNIO",
 			"KĄT_DESKAFOIL" : "2.0",
 			"PODKŁADKA" : "+1",
-			"WAGA" : "45",
+			"WAGA" : "45kg",
 			"WIATR" : 10
         },
 		{
@@ -13,7 +13,7 @@
 			"MASZT" : "ŚREDNIO",
 			"KĄT_DESKAFOIL" : "2.0",
 			"PODKŁADKA" : "+1",
-			"WAGA" : "50",
+			"WAGA" : "50kg",
 			"WIATR" : 15
         }
 	]
