@@ -31,6 +31,15 @@
 			"PODKŁADKA" : "+1",
 			"WAGA" : "55kg",
 			"WIATR" : 15
+        },
+		{
+			"PALETA" : "PRZÓD",
+			"MASZT" : "ŚREDNIO",
+			"KĄT_DESKAFOIL" : "2.3",
+			"PODKŁADKA" : "+1",
+			"WAGA" : "55kg",
+			"WIATR" : 10
         }
+		
 	]
 }
